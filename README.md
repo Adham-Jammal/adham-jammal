@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br><br>🎯 Goals: Elevating my coding prowess to mythical levels, rewriting the rules of software like the best developer in a parallel universe. Constantly pushing boundaries, learning voraciously, and crafting software that leaves even my keyboard in awe.<br><br>🎲 Fun fact: I once beat a computer at chess, but it turns out it was just stuck in an infinite loop. Still counted it as a victory!</p>
+<p align="left">✨ Creating bugs since 2018<br><br>🎯 Goals: Elevating my coding prowess to mythical levels, rewriting the rules of software like the best developer in a parallel universe. Constantly pushing boundaries, learning voraciously, and crafting software that leaves even my keyboard in awe.<br><br>🎲 Fun fact: I have a close relationship with React components – we're practically family! If you ever hear me talking about 'state,' I'm not being emotional, it's just coding lingo</p>
 
 ###
 
